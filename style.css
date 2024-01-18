@@ -1,0 +1,377 @@
+.a {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .a .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 595.66px;
+    height: 842.46px;
+  }
+  
+  .a .overlap {
+    position: relative;
+    width: 596px;
+    height: 830px;
+  }
+  
+  .a .overlap-group {
+    position: absolute;
+    width: 596px;
+    height: 830px;
+    top: 0;
+    left: 0;
+  }
+  
+  .a .rectangle {
+    position: absolute;
+    width: 596px;
+    height: 145px;
+    top: 0;
+    left: 0;
+    transform: rotate(0.04deg);
+  }
+  
+  .a .group {
+    position: absolute;
+    width: 556px;
+    height: 160px;
+    top: 8px;
+    left: 33px;
+  }
+  
+  .a .div {
+    position: relative;
+    width: 568px;
+    height: 160px;
+  }
+  
+  .a .overlap-group-2 {
+    position: absolute;
+    width: 185px;
+    height: 160px;
+    top: 0;
+    left: 371px;
+  }
+  
+  .a .CONTACT {
+    position: absolute;
+    width: 185px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .a .text-wrapper {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+  }
+  
+  .a .span {
+    font-family: "ITF Devanagari-Regular", Helvetica;
+  }
+  
+  .a .ic-baseline-email {
+    width: 17px;
+    height: 16px;
+    top: 34px;
+    position: absolute;
+    left: 14px;
+  }
+  
+  .a .text-wrapper-2 {
+    position: absolute;
+    top: 33px;
+    left: 40px;
+    font-family: "Istok Web-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .a .ic-baseline-phone {
+    width: 16px;
+    height: 17px;
+    top: 64px;
+    position: absolute;
+    left: 14px;
+  }
+  
+  .a .text-wrapper-3 {
+    position: absolute;
+    width: 99px;
+    top: 65px;
+    left: 40px;
+    font-family: "Istok Web-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .a .mdi-location {
+    position: absolute;
+    width: 18px;
+    height: 17px;
+    top: 95px;
+    left: 14px;
+  }
+  
+  .a .text-wrapper-4 {
+    position: absolute;
+    top: 98px;
+    left: 40px;
+    font-family: "Istok Web-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .a .ellipse {
+    position: absolute;
+    width: 111px;
+    height: 104px;
+    top: 14px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .a .overlap-2 {
+    position: absolute;
+    width: 222px;
+    height: 80px;
+    top: 25px;
+    left: 126px;
+  }
+  
+  .a .SAI-CHANDANA-VALLURU {
+    position: absolute;
+    width: 222px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .a .frontend-developer {
+    position: absolute;
+    width: 146px;
+    top: 39px;
+    left: 0;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .a .text-wrapper-5 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .a .text-wrapper-6 {
+    font-size: 12px;
+  }
+  
+  .a .group-2 {
+    position: absolute;
+    width: 284px;
+    height: 679px;
+    top: 151px;
+    left: 305px;
+    background-color: #f7f7f7;
+  }
+  
+  .a .OBJECTIVE-dedicated {
+    position: absolute;
+    width: 287px;
+    top: 150px;
+    left: 10px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .a .text-wrapper-7 {
+    font-weight: 300;
+  }
+  
+  .a .text-wrapper-8 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 15px;
+  }
+  
+  .a .text-wrapper-9 {
+    font-family: "Actor-Regular", Helvetica;
+    font-size: 13px;
+  }
+  
+  .a .PROFILE-motivated-b-wrapper {
+    position: absolute;
+    width: 270px;
+    height: 665px;
+    top: 157px;
+    left: 312px;
+  }
+  
+  .a .PROFILE-motivated-b {
+    position: absolute;
+    width: 268px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .a .text-wrapper-10 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+  }
+  
+  .a .text-wrapper-11 {
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 13px;
+  }
+  
+  .a .text-wrapper-12 {
+    font-weight: 300;
+    font-size: 13px;
+  }
+  
+  .a .text-wrapper-13 {
+    font-family: "Inter-Regular", Helvetica;
+  }
+  
+  .a .overlap-3 {
+    position: absolute;
+    width: 289px;
+    height: 467px;
+    top: 363px;
+    left: 8px;
+    background-color: #f6f6f6;
+  }
+  
+  .a .EDUCATION-VIT-AP {
+    position: absolute;
+    width: 277px;
+    top: 16px;
+    left: 9px;
+    font-family: "Actor-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 13px;
+  }
+  
+  .a .text-wrapper-14 {
+    color: #ffffff;
+  }
+  
+  .a .text-wrapper-15 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+  }
+  
+  .a .text-wrapper-16 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 15px;
+  }
+  
+  .a .text-wrapper-17 {
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 15px;
+    line-height: 25px;
+  }
+  
+  .a .text-wrapper-18 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+    line-height: 25px;
+  }
+  
+  .a .text-wrapper-19 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+    line-height: 25px;
+  }
+  
+  .a .text-wrapper-20 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+  }
+  
+  .a .text-wrapper-21 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 25px;
+  }
+  
+  .a .text-wrapper-22 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 15px;
+  }
+  
+  .a .text {
+    position: absolute;
+    width: 273px;
+    top: 67px;
+    left: 9px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
